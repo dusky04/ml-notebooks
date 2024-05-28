@@ -1,2 +1,5 @@
-# Machine-Learning-Projects
-some of the machine learning projects i made
+# ML - Notebooks
+
+all the `jupyter` notebooks here are just for learning.
+
+all the datasets are taken from Kaggle.
